@@ -7,7 +7,7 @@ import pandas as pd
 
 
 # Считываем данные из CSV-файла
-file_path = 'G:/KKKKK/programming/Bot/bot.csv'
+file_path = 'C:/Users/Daniil/PycharmProjects/pythonProject/bot.csv'
 df = pd.read_csv(file_path)
 
 # Преобразуем столбец 'Date' в формат datetime
